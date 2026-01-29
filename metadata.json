@@ -1,0 +1,8 @@
+{
+  "name": "Halo Nusantara Landing Page",
+  "description": "A high-conversion landing page for Halo Nusantara, a premium Indonesian travel company, featuring interactive destination filters, AI travel assistant, and a modern Indonesian aesthetic.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
