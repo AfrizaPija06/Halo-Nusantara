@@ -1,4 +1,3 @@
-
 import React from 'react';
 import { TESTIMONIALS } from '../constants';
 
@@ -31,7 +30,7 @@ const Testimonials: React.FC = () => {
       <div className="mt-16 text-center">
         <div className="inline-flex items-center gap-8 bg-white py-4 px-8 rounded-2xl shadow-sm border border-slate-100">
           <div className="flex items-center gap-3">
-             <img src="https://upload.wikimedia.org/wikipedia/commons/c/c1/Google_\"G\"_Logo.svg" className="w-5 h-5" alt="Google" />
+             <img src="https://upload.wikimedia.org/wikipedia/commons/c/c1/Google_%22G%22_Logo.svg" className="w-5 h-5" alt="Google" />
              <div className="text-left">
                <div className="flex text-yellow-400">★★★★★</div>
                <p className="text-[10px] font-bold text-slate-400 uppercase">4.9/5 Google Reviews</p>
